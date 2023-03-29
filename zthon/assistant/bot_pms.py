@@ -110,10 +110,10 @@ async def bot_start(event):
                         \n\n**❈╎البـوت خـاص بسـورس :** [𝗭𝗧𝗵𝗼𝗻 𓅛](https://t.me/ZedThon)"
         buttons = [
             (
-                Button.url("قنـاة السـورس", "https://t.me/ZedThon"),
+                Button.url("قنـاة السـورس", "https://t.me/fvu_9"),
                 Button.url(
                     "مطـور السـورس",
-                    "https://t.me/zzzzl1l",
+                    "https://t.me/je6_n",
                 ),
             )
         ]
